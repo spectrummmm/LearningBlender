@@ -1,2 +1,2 @@
-# LearningBlender
-Обучение моделированию моделей
+## LearningBlender
+#Обучение моделированию в среде "Blender"
