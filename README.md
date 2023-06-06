@@ -1,4 +1,4 @@
-# LearningBlender
+# LearningBlender 	<img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 ![image](https://github.com/spectrummmm/LearningBlender/assets/133951457/f5f8a0a2-eea6-4fc6-84f9-865245228f02)
 ## Актуальность
 На одном из занятий по программированию я изучил основы работы в среде  ***"Blender"***. *Он* является средой для 3D-Моделирования моделей и обьектов. В отличии от **Компасс-3D или T-Flex**, ***Блендер*** не предусматривает возможность создавать модели в высокой точностью, и в основном используется в GameDev.
